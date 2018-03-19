@@ -2,27 +2,27 @@
   "_args": [
     [
       {
-        "raw": "patternlab-node@git+https://github.com/tristandubbeld/patternlab-node.git",
+        "raw": "patternlab-node@git+https://github.com/colours/patternlab-node.git",
         "scope": null,
         "escapedName": "patternlab-node",
         "name": "patternlab-node",
-        "rawSpec": "git+https://github.com/tristandubbeld/patternlab-node.git",
-        "spec": "git+https://github.com/tristandubbeld/patternlab-node.git",
+        "rawSpec": "git+https://github.com/colours/patternlab-node.git",
+        "spec": "git+https://github.com/colours/patternlab-node.git",
         "type": "hosted",
         "hosted": {
           "type": "github",
-          "ssh": "git@github.com:tristandubbeld/patternlab-node.git",
-          "sshUrl": "git+ssh://git@github.com/tristandubbeld/patternlab-node.git",
-          "httpsUrl": "git+https://github.com/tristandubbeld/patternlab-node.git",
-          "gitUrl": "git://github.com/tristandubbeld/patternlab-node.git",
-          "shortcut": "github:tristandubbeld/patternlab-node",
-          "directUrl": "https://raw.githubusercontent.com/tristandubbeld/patternlab-node/master/package.json"
+          "ssh": "git@github.com:colours/patternlab-node.git",
+          "sshUrl": "git+ssh://git@github.com/colours/patternlab-node.git",
+          "httpsUrl": "git+https://github.com/colours/patternlab-node.git",
+          "gitUrl": "git://github.com/colours/patternlab-node.git",
+          "shortcut": "github:colours/patternlab-node",
+          "directUrl": "https://raw.githubusercontent.com/colours/patternlab-node/master/package.json"
         }
       },
       "/data/inetpub/goudse/src/Foundation/PatternLab/code"
     ]
   ],
-  "_from": "git+https://github.com/tristandubbeld/patternlab-node.git",
+  "_from": "git+https://github.com/colours/patternlab-node.git",
   "_id": "patternlab-node@2.6.1",
   "_inCache": true,
   "_location": "/patternlab-node",
@@ -39,30 +39,30 @@
     "rimraf": "2.6.1"
   },
   "_requested": {
-    "raw": "patternlab-node@git+https://github.com/tristandubbeld/patternlab-node.git",
+    "raw": "patternlab-node@git+https://github.com/colours/patternlab-node.git",
     "scope": null,
     "escapedName": "patternlab-node",
     "name": "patternlab-node",
-    "rawSpec": "git+https://github.com/tristandubbeld/patternlab-node.git",
-    "spec": "git+https://github.com/tristandubbeld/patternlab-node.git",
+    "rawSpec": "git+https://github.com/colours/patternlab-node.git",
+    "spec": "git+https://github.com/colours/patternlab-node.git",
     "type": "hosted",
     "hosted": {
       "type": "github",
-      "ssh": "git@github.com:tristandubbeld/patternlab-node.git",
-      "sshUrl": "git+ssh://git@github.com/tristandubbeld/patternlab-node.git",
-      "httpsUrl": "git+https://github.com/tristandubbeld/patternlab-node.git",
-      "gitUrl": "git://github.com/tristandubbeld/patternlab-node.git",
-      "shortcut": "github:tristandubbeld/patternlab-node",
-      "directUrl": "https://raw.githubusercontent.com/tristandubbeld/patternlab-node/master/package.json"
+      "ssh": "git@github.com:colours/patternlab-node.git",
+      "sshUrl": "git+ssh://git@github.com/colours/patternlab-node.git",
+      "httpsUrl": "git+https://github.com/colours/patternlab-node.git",
+      "gitUrl": "git://github.com/colours/patternlab-node.git",
+      "shortcut": "github:colours/patternlab-node",
+      "directUrl": "https://raw.githubusercontent.com/colours/patternlab-node/master/package.json"
     }
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git+https://github.com/tristandubbeld/patternlab-node.git#f344a093ba815d8877747a86eeead6b4e1dff300",
+  "_resolved": "git+https://github.com/colours/patternlab-node.git#f344a093ba815d8877747a86eeead6b4e1dff300",
   "_shasum": "b482cc288a6af21faa5140619bb5c46c7a2b265d",
   "_shrinkwrap": null,
-  "_spec": "patternlab-node@git+https://github.com/tristandubbeld/patternlab-node.git",
+  "_spec": "patternlab-node@git+https://github.com/colours/patternlab-node.git",
   "_where": "/data/inetpub/goudse/src/Foundation/PatternLab/code",
   "author": {
     "name": "Brian Muenzenmeyer"
